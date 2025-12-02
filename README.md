@@ -5,9 +5,9 @@ The original Jupyter Notebook has been fully refactored into clean, production-r
 
 ---
 
-## 🚀 Features
+## Features:
 
-### Dataset:
+### Dataset
 https://catalog.data.gov/dataset/crime-data-from-2020-to-present
 
 ### Data Processing
