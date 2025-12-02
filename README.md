@@ -1,4 +1,4 @@
-# 📊 LA Crime Analysis – Python Package + Streamlit Dashboard
+# Crime Analysis with Dashboard for the City of Los Angeles
 
 This project analyzes **crime data for the City of Los Angeles** using a modular Python architecture and a fully interactive **Streamlit dashboard**.  
 The original Jupyter Notebook has been fully refactored into clean, production-ready **.py modules** for reusability, scalability, and deployment.
